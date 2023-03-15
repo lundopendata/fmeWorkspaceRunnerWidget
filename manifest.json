@@ -1,5 +1,5 @@
 {
-    "name": "fme-workspace-runner",
+    "name": "fmeWorkspaceRunnerWidget",
     "type": "widget",
     "version": "1.10.0",
     "exbVersion": "1.10.0",
