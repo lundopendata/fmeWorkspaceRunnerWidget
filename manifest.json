@@ -1,0 +1,17 @@
+{
+    "name": "fme-workspace-runner",
+    "type": "widget",
+    "version": "1.10.0",
+    "exbVersion": "1.10.0",
+    "author": "Benny Jonsson, Martin Ekstrand",
+    "description": "FME workspace runner.",
+    "copyright": "",
+    "dependency": "",
+    "license": "",
+    "properties": {},
+    "translatedLocales": ["en"],
+    "defaultSize": {
+      "width": 100,
+      "height": 100
+    }
+  }
